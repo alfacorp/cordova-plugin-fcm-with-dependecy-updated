@@ -36,8 +36,8 @@
 	<platform name="android">
 		<preference name="FCM_CORE_VERSION" default="16.0.9" />
 		<preference name="FCM_VERSION" default="18.0.0" />
-		<preference name="GRADLE_TOOLS_VERSION" default="3.5.0" />
-		<preference name="GOOGLE_SERVICES_VERSION" default="4.2.0" />
+		<preference name="GRADLE_TOOLS_VERSION" default="3.5.3" />
+		<preference name="GOOGLE_SERVICES_VERSION" default="4.3.3" />
 		<preference name="ANDROID_DEFAULT_NOTIFICATION_ICON" default="@mipmap/ic_launcher" />
 
 		<config-file target="AndroidManifest.xml" parent="/manifest/application">
